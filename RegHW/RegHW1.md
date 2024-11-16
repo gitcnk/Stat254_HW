@@ -22,7 +22,7 @@ air <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_Qu
 
 (5) [3 pts] Create a new data set (call it less_poluted_cities) by removing the 3 most extreme cities  
 
-** Hint : Use the 'filter' function for this.  
+* Hint : Use the 'filter' function for this.  
 
 
 
