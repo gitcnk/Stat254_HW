@@ -32,5 +32,5 @@
 ---
 
 9. Now build a simple model by using only the 'gestation' variable as a prodictor .  That is: lm( bwt ~ gestation).
-If predicting the birtweight is your objective, which model (the simple one with one variable 'gestation' or the one with 4 variables in part(e) above) do you prefer?  Please justify your answer.
+If predicting the birtweight is your objective, which model (the simple one with one variable 'gestation' or the one with 4 variables in part 7 (above) do you prefer?  Please justify your answer.
 
