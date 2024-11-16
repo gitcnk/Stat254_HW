@@ -1,8 +1,8 @@
-# HW3
+# Regression HW3
 
 *Use this link to access data*
   
-BW <-  read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Birth_Weights1960.csv')
+``BW <-  read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Birth_Weights1960.csv')``
 
 
 (a)  Construct a multiple regression model to predict the birthweight (bwt) measured in oz's of babies using the following variables:
