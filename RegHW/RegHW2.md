@@ -2,7 +2,7 @@ The following data is about colleges in th US. The data was collected in 2016.
 
 *Use the following command to access the data.*
 
-colleges <- read.csv('https://raw.githubusercontent.com/gitcnk/Data/master/colleges2016.csv')
+``colleges <- read.csv('https://raw.githubusercontent.com/gitcnk/Data/master/colleges2016.csv')``
 
 
 * The goal of this homework is to understand interaction terms.  That is, where the effect of one variable dependes on the values of another variable.
