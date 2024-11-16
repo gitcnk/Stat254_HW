@@ -1,4 +1,4 @@
-# Reg HW1
+# Regression HW1
 
 ``air <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_Quality_E44.csv')``
 
