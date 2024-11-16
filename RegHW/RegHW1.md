@@ -22,7 +22,7 @@ air <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_Qu
 
 (5) [3 pts] Create a new data set (call it less_poluted_cities) by removing the 3 most extreme cities  
 
-## Hint : Use the 'filter' function for this.  
+** Hint : Use the 'filter' function for this. **  
 
 
 
@@ -33,6 +33,6 @@ air <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_Qu
 
 (7) [4 pts] You will see that the correlation coefficient decrease quite a bit. Could you give a mathematical explaination to this decrease?
 
-## Hint: Think about the definition of the correlation coefficient and the discussion we had using the quadrants.
+* Hint: Think about the definition of the correlation coefficient and the discussion we had using the quadrants. *
 
 
