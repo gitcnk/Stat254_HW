@@ -1,5 +1,9 @@
 # Regression HW1
 
+---
+
+*Use the following command to access the data*
+
 ``air <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_Quality_E44.csv')``
 
 
