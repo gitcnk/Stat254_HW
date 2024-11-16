@@ -1,6 +1,6 @@
 # HW3
 
-Use this link to access data:
+*Use this link to access data*
   
 BW <-  read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Birth_Weights1960.csv')
 
@@ -11,7 +11,7 @@ height ,
 weight.  
 Note that these variables are about the mother.
 
-(b)  Interpret the R^2 (R-sqaured) of your model.  Read the document on Bb related to R^2.  Give two interpretations of this metirc.
+(b)  Interpret the **R^2** (R-sqaured) of your model.  Read the document on Bb related to R^2.  Give two interpretations of this metric.
 
 
 (c)  Interpret the residual standar error of your model.  Do you think this value is reasonable or is it too high/low?  Briefly explain. 
