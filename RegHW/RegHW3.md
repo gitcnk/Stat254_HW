@@ -12,7 +12,7 @@
 
 *Note that these variables are about the mother.*
 
-2.  Interpret the **R^2** (R-sqaured) of your model.  Read the document on Bb related to R^2.  Give two interpretations of this metric.
+2.  Interpret the $R^2$ (R-sqaured) of your model.  Read the document on Bb related to $R^2$.  Give two interpretations of this metric.
 
 
 3. Interpret the residual standar error of your model.  Do you think this value is reasonable or is it too high/low?  Briefly explain. 
@@ -31,6 +31,7 @@
 
 ---
 
-9. Now build a simple model by using only the 'gestation' variable as a prodictor .  That is: lm( bwt ~ gestation).
+9. Now build a simple model by using only the 'gestation' variable as a prodictor .
+    ``That is: lm( bwt ~ gestation)``
 If predicting the birtweight is your objective, which model (the simple one with one variable 'gestation' or the one with 4 variables in part 7 (above) do you prefer?  Please justify your answer.
 
