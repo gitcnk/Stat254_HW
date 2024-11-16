@@ -1,6 +1,6 @@
 # Reg HW1
 
-air <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_Quality_E44.csv')
+``air <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_Quality_E44.csv')``
 
 
 (1) [3 pts] Draw a scatterplot of the carbone monoxide- CO(X) and ozone levels(Y).
