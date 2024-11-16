@@ -5,8 +5,9 @@ The following data is about colleges in th US. The data was collected in 2016.
 colleges <- read.csv('https://raw.githubusercontent.com/gitcnk/Data/master/colleges2016.csv')
 
 
-**The goal of this homework is to understand interaction terms.  That is, where the effect of one variable dependes on the values of another variable.  
-**For example, in class we discussed the example where the efect of job difficulty  on salary was dependend on the female-dominated job categories.  
+* The goal of this homework is to understand interaction terms.  That is, where the effect of one variable dependes on the values of another variable.
+
+* For example, in class we discussed the example where the efect of job difficulty  on salary was dependend on the female-dominated job categories.  
 
 
 The specific goal of this analysis is to see how student debt is related to tuition and what type interactions does it have with private vs. public colleges.
