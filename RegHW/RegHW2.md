@@ -1,3 +1,5 @@
+# Regression HW2
+
 The following data is about colleges in th US. The data was collected in 2016.
 
 *Use the following command to access the data.*
