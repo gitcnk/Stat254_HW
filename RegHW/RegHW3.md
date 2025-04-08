@@ -17,7 +17,7 @@
 
 3. Interpret the residual standar error of your model.  Do you think this value is reasonable or is it too high/low?  Briefly explain. 
 
-4.  Construct two residual plots (histogram and qq plot) and briefly explain why we need to examine them.
+4.  Construct the three residual plots and briefly explain why we need to examine them.  In particular, explain the purpose of each plot.
 
 5.  Is the variable 'age'(mother's age) an important predictor of the weight of the baby?  Please answer this using a confidence interval.
 
