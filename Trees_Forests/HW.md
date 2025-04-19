@@ -3,7 +3,7 @@
 ``wine_red <- read.csv("https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv",
 sep = ";")``
 
-- Task: To build a tree and forest model to predict wine quality.
+- Task: To build a tree and a forest model to predict wine quality.
 
 - Data Source: From UC-Irvine ML repository. 
 
