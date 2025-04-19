@@ -38,8 +38,7 @@ Please use 1200 for the training set and the rest for the validation set.
 
 
 
-6. Compare your tree model with a random forest model. Please use 100 trees and 3 predictor at each split of each tree.
-In particular, compare the  "going-to-the-beach" plots of both models using the test set.  Please attach your plots.
+6. Compare your tree model with a random forest model. Please use 100 trees and 3 predictor at each split of each tree.  In particular, compare the  "going-to-the-beach" plots of both models using the test set.  Please attach your plots.
 
 
 
