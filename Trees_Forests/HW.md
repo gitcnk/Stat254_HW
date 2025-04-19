@@ -1,5 +1,4 @@
-# Trees and Forests :)
-
+# Trees and Forests
 
 ``wine_red <- read.csv("https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv",
 sep = ";")``
