@@ -31,7 +31,7 @@ Please use 1200 for the training set and the rest for the validation set.
 
 
 
-4. Create the "going-to-the-beach" plot to assess the accuracy of your model.  Do this for both the training set and the test set.
+4. Create the "going-to-the-beach" plot to assess the accuracy of your model.  Do this for both the training set and the test set. Please attach your plot.
 
 
 5. What are the 3 most useful predictors in predicting wine quality.
@@ -40,7 +40,7 @@ Please use 1200 for the training set and the rest for the validation set.
 
 
 6. Compare your tree model with a random forest model. Please use 100 trees and 3 predictor at each split of each tree.
-In particular, compare the  "going-to-the-beach" plots of both models using the test set.
+In particular, compare the  "going-to-the-beach" plots of both models using the test set.  Please attach your plots.
 
 
 
