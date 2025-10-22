@@ -9,7 +9,7 @@
 
 ### Use the following command to access the data.
 
-```Air_Quality_2018 <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_quality_2018.csv')```
+``Air_Quality_2018 <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/Air_quality_2018.csv')``
 
 
 ### Answer the following questions:
