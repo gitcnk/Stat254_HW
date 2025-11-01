@@ -1,7 +1,7 @@
 # Regression HW 2
 
 
-- The dataset below is for 2018, from EPA website ('https://www.epa.gov/air-trends/air-quality-cities-and-counties')
+- The dataset below is for year 2018 from EPA website ('https://www.epa.gov/air-trends/air-quality-cities-and-counties')
 - The whole dataset has many variables and lots of missing values.  What we have is a cleaned version.  
 - Both CO and O3 are measured in parts per million (ppm).
 
