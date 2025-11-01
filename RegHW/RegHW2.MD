@@ -14,7 +14,7 @@
 
 ### Answer the following questions:
 
-1. [3 pts] Draw a scatter plot to look at the relationship between the $CO$ level($X$) using $O3$ ($Y$). Add the regression line(line of best fit) into your # scatterplot.  Attach your plot.
+1. [3 pts] Draw a scatter plot to look at the relationship between the $CO$ level($X$) using $O3$ ($Y$). Add the regression line(line of best fit) into your scatterplot.  Attach your plot.
 
 
 2. [2 pts] Write down the equation of the fitted line using proper notation.
