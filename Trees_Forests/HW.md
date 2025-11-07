@@ -17,7 +17,7 @@ sep = ";")``
 ### Please answer the following questions:
 
 
-1. Following what we did in class, create a training set and a validation set (test set) from your data.  
+[//]: # 1. Following what we did in class, create a training set and a validation set (test set) from your data.  
 Please use 1200 for the training set and the rest for the validation set.
 
 
