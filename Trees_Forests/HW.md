@@ -42,7 +42,7 @@ Please use 1200 for the training set and the rest for the validation set.) -->
 
 6. Compare your tree model with a random forest model. Please use 100 trees and 3 predictor at each split of each tree.  In particular, compare the  "going-to-the-beach" plots of all 3 models. Please attach your plots.
 
-7.  Re do #6, but this time construct a single "going-to-the-beach" plot with ALL 3 model predictions.   Use diffent cololrs and shapes to denote the 3 models.  You can use 'col' nad 'shape' parameters in `ggplot` to do this.
+7.  Re do #6, but this time construct a single "going-to-the-beach" plot with ALL 3 model predictions.   Use diffent cololrs and shapes to denote the 3 models.  You can use `col` and `shape` parameters in `ggplot` to do this.
 
    
 
