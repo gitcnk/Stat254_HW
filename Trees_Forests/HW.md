@@ -35,14 +35,14 @@ Please use 1200 for the training set and the rest for the validation set.) -->
 4. Create the "going-to-the-beach" plot to assess the accuracy of your model.  Please attach your plot.
 
 
-5. What are the 3 most useful predictors in predicting wine quality.
+5. Based on your tree what are the 3 most useful variables in predicting the wine quality.
 
 
 
 
-6. Compare your tree model with a random forest model. Please use 100 trees and 3 predictor at each split of each tree.  In particular, compare the  "going-to-the-beach" plots of all 3 models. Please attach your plots.
+6. Compare your tree model with a random forest model. Please use 100 trees and 3 predictors at each split of each tree.  In particular, compare the  "going-to-the-beach" plots of all 3 models. Please attach your plots.
 
-7.  Re do #6, but this time construct a single "going-to-the-beach" plot with ALL 3 model predictions.   Use diffent cololrs and shapes to denote the 3 models.  You can use `col` and `shape` parameters in `ggplot` to do this.
+7.  **(Bonus 2pt) Redo #6, but this time construct a single "going-to-the-beach" plot with ALL 3 model predictions.   Use diffent cololrs and shapes to denote the 3 models.  You can use `col` and `shape` parameters in `ggplot` to do this.  I encourage you to **NOT USE GPT** for this.  You have the skill to do it!
 
    
 
