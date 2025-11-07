@@ -20,10 +20,10 @@ sep = ";")``
 <!--- (1. Following what we did in class, create a training set and a validation set (test set) from your data.  
 Please use 1200 for the training set and the rest for the validation set.) -->
 
+1. Construct a linear model to predict the wine quality using ALL predictors.  Which variables seem to be more predictive of Wine quality.  Use confidence intervals to answer this question. 
 
 
-
-2. Construct a tree model using your training data.  Please include your code and the plot of the tree.
+2. Construct a tree model to predict the wine quality using ALL predictors.  Please include your code and the plot of the tree.
 
 
 
@@ -32,7 +32,7 @@ Please use 1200 for the training set and the rest for the validation set.) -->
 
 
 
-4. Create the "going-to-the-beach" plot to assess the accuracy of your model.  Do this for both the training set and the test set. Please attach your plot.
+4. Create the "going-to-the-beach" plot to assess the accuracy of your model.  Please attach your plot.
 
 
 5. What are the 3 most useful predictors in predicting wine quality.
@@ -40,7 +40,11 @@ Please use 1200 for the training set and the rest for the validation set.) -->
 
 
 
-6. Compare your tree model with a random forest model. Please use 100 trees and 3 predictor at each split of each tree.  In particular, compare the  "going-to-the-beach" plots of both models using the test set.  Please attach your plots.
+6. Compare your tree model with a random forest model. Please use 100 trees and 3 predictor at each split of each tree.  In particular, compare the  "going-to-the-beach" plots of all 3 models. Please attach your plots.
+
+7.  Re do #6, but this time construct a single "going-to-the-beach" plot with ALL 3 model predictions.   Use diffent cololrs and shapes to denote the 3 models.  You can use 'col' nad 'shape' parameters in `ggplot` to do this.
+
+   
 
 
 
